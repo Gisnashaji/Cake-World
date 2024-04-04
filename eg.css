@@ -1,0 +1,19 @@
+.cake-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  
+  
+  
+  .rating {
+    font-size: 24px;
+  }
+  
+  .star {
+    color: gold;
+  }
+  
